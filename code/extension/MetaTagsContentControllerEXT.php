@@ -1,5 +1,7 @@
 <?php
 
+use SilverStripe\Core\Extension;
+
 /**
  * adds meta tag functionality to the Page_Controller
  *

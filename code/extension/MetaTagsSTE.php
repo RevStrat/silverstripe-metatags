@@ -1,4 +1,8 @@
 <?php
+
+use SilverStripe\CMS\Model\SiteTreeExtension;
+use SilverStripe\Forms\FieldList;
+
 /**
 *
 * @Author Nicolaas Francken

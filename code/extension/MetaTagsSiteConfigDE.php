@@ -1,5 +1,8 @@
 <?php
 
+use SilverStripe\ORM\DataExtension;
+use SilverStripe\Forms\FieldList;
+
 /**
  * adding functionality to SiteConfig
  *
